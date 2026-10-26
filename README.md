@@ -256,8 +256,8 @@ The current test suite contains five tests, all of which passed during the last 
 
 ## Author
 
-**Prashant Singh**
+**Priyanshi Pardhi**
 
 GitHub: [pari-cyber-ai](https://github.com/pari-cyber-ai)
 
-**Project Repository:** [Students Database CRUD Application](https://github.com/PRASHANTSINGH-Up/students-database-crud)
+**Project Repository:** [Students Database CRUD Application](https://github.com/pari-cyber-ai/student-database-crud)
